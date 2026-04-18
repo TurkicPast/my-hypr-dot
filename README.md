@@ -5,7 +5,7 @@ My personal minimalist Hyprland configurations for a smooth NixOS experience.
 ### 🤝 Credits & Respect
 Bu setup oluşturulurken şu kralların işlerinden esinlenilmiştir (çatallanmıştır):
 
-* **Waybar:** [Yusuf İpek](https://github.com/yusufipek) (Bar Yusuf abiden).
+* **Waybar:** [Yusuf İpek](https://github.com/yusufipk) (Bar Yusuf abiden).
 * **Animations:** [JaKoolit](https://github.com/JaKooLit) (animasyonlar JaKoolit'in eseri).
 
 ---

@@ -30,7 +30,7 @@ Bu setup oluşturulurken şu kralların işlerinden esinlenilmiştir (çatallanm
 | `Brightness Keys` | Control Display Brightness (+/- 5%) |
 | `SUPER + Arrows` | Move Focus (Left/Right/Up/Down) |
 | `CTRL + ALT + DEL` | Exit Hyprland |
-| `SUPER + W` | Select wallpaper |
+| `SUPER + W` | Select wallpaper (swww) |
 
 
 

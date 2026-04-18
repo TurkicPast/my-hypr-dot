@@ -30,3 +30,9 @@ Bu setup oluşturulurken şu kralların işlerinden esinlenilmiştir (çatallanm
 | `Brightness Keys` | Control Display Brightness (+/- 5%) |
 | `SUPER + Arrows` | Move Focus (Left/Right/Up/Down) |
 | `CTRL + ALT + DEL` | Exit Hyprland |
+| `SUPER + W` | Select wallpaper |
+
+
+
+
+o make the script work, you must run chmod +x ~/.config/hypr/scripts/wallpaper-picker.sh to give it execution permission. Also, make sure to create the ~/.config/hypr/wallpapers directory and toss your wallpapers in there so you can actually pick them!

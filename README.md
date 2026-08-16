@@ -3,18 +3,11 @@ My personal minimalist Hyprland configurations for a smooth NixOS experience.
 ---
 
 ### 🤝 Credits & Respect
-Bu setup oluşturulurken şu kralların işlerinden esinlenilmiştir (çatallanmıştır):
 
-* **Waybar:** [Yusuf İpek](https://github.com/yusufipk) (Bar Yusuf abiden).
-* **Animations:** [JaKoolit](https://github.com/JaKooLit) (animasyonlar JaKoolit'in eseri).
+ width="1366" height="768" alt="resim" src="https://github.com/user-attachments/assets/f18c0c56-92ce-4922-aabe-7749573d6976" />
 
----
+<img width="1366" height="767" alt="resim" src="https://github.com/user-attachments/assets/c859706c-eafd-400a-ad9f-80366159681a" />
 
-<img width="1916" height="1066" alt="image" src="https://github.com/user-attachments/assets/a91de133-1e99-4630-ab03-909d0cca17cd" />
-
-<img width="1920" height="1078" alt="image" src="https://github.com/user-attachments/assets/4a65b6e1-6f0e-4cf8-ab99-f32a1f1b5605" />
-
-### ⌨️ Keybindings (Wurh's Setup)
 
 | Keybind | Action |
 | :--- | :--- |

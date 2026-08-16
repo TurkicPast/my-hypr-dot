@@ -2,7 +2,6 @@
 My personal minimalist Hyprland configurations for a smooth NixOS experience.
 ---
 
-### 🤝 Credits & Respect
 
 <img width="1366" height="768" alt="resim" src="https://github.com/user-attachments/assets/ef345b2c-44af-43bf-8cc3-a3b161143026" />
 

@@ -1,0 +1,44 @@
+{
+    "layer": "top",
+    "position": "bottom",
+    "margin-bottom": 15,
+    "margin-left": 350,
+    "margin-right": 350,
+    "height": 26,
+    "modules-left": ["hyprland/workspaces"],
+    "modules-center": ["clock"],
+    "modules-right": ["tray", "network", "bluetooth", "pulseaudio", "custom/nixos"],
+
+    "hyprland/workspaces": {
+        "format": "{name}",
+        "persistent-workspaces": {
+            "1": [], "2": [], "3": [], "4": [], "5": []
+        }
+    },
+    "clock": {
+        "format": "{:%H:%M}",
+        "tooltip": false
+    },
+    "network": {
+        "format-wifi": "WiFi",
+        "format-disconnected": "Koptuk",
+        "tooltip": false
+    },
+    "bluetooth": {
+        "format": "BT",
+        "format-connected": "BT Bağlı",
+        "tooltip": false
+    },
+    "pulseaudio": {
+        "format": "Ses:{volume}%",
+        "format-muted": "Sessiz",
+        "tooltip": false
+    },
+    "tray": {
+        "spacing": 10
+    },
+    "custom/nixos": {
+        "format": "",
+        "tooltip": false
+    }
+}
